@@ -1,7 +1,4 @@
----
-"Exercise Prediction"
 
----
 
 # Exercise Prediction
 
